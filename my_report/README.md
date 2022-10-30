@@ -19,9 +19,9 @@ The goal of those projects are to get experience for Processing and manage codin
   Καθώς προσπάθησα να αποθηκεύσω το 2ο bullet σε αρχείο για να είναι μαζί με τα υπόλοιπα, δεν τα κατάφερα καθώς μετο που άλλαζε ένα direction, δεν μπορούσε να μου τρέξει το πρόγραμμα και μου έλεγε ότι δεν το έβρισκε. Οπότε άλλαξα τα αρχεία του παραδείγματος στο δικό μου (δικό μου βίντεο όπου βρήκα [εδώ](https://www.youtube.com/watch?v=ht4-aoXxlwI&t=3s))
   Οπότε έτρεχα το path: 
   > Documents\Processing\libraries\video\examples\Movie\Speed\Speed.pde
-  - [] Αποθήκευση σε δικό μου φάκελο
-  - [] Προσάρμοση στο θέμα
-  - [] Επίλυση προβλήματος
+  - [ ] Αποθήκευση σε δικό μου φάκελο
+  - [ ] Προσάρμοση στο θέμα
+  - [ ] Επίλυση προβλήματος
 #### THIRD BULET:
    Έφτιαξα το δικό μου QRcode από το online tool [εδώ -> unitag](https://www.unitag.io/?fbclid=IwAR1m_Y4Vl7eWTtkxVIFKHkA01GYOFbzy4_3b-YP4LRsdlqiNQ9rHxv-4hGk) και ακολούθησα τις οδηγίες του βιβλίου για να γράψω τον κώδικα.
    Συγκεκριμένα άλλαξα την γραμμή 3 όπου είχε ως αρχική: _size(640, 420);_ και το έκανα _size(300, 300);_
