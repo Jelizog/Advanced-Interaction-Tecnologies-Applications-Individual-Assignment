@@ -11,6 +11,7 @@
  * The sketch shows cube on the marker of "patt.hiro".
  * Any pattern and configuration files are found in libraries/nyar4psg/data inside your sketchbook folder. 
 */
+PImage img;
 import processing.video.*;
 import jp.nyatla.nyar4psg.*;
 
@@ -25,6 +26,7 @@ void setup() {
   nya=new MultiMarker(this,width,height,"../../data/camera_para.dat",NyAR4PsgConfig.CONFIG_PSG);
   nya.addARMarker("../../data/patt.hiro",80);
   cam.start();
+  img = loadImage("TIGER.jpg");
 }
 
 void draw()
@@ -40,8 +42,10 @@ void draw()
     return;
   }
   nya.beginTransform(0);
-  fill(0,0,255);
-  translate(0,0,20);
-  box(40);
+  fill(0,0 ,255);
+  translate(50,100,20);
+  //box(40);
+  rotateZ(radians(180));
+  image(img, 0, 0, 100,200);
   nya.endTransform();
 }
