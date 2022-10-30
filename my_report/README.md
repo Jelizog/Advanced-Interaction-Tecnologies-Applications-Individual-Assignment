@@ -3,7 +3,7 @@
 ### First and Last Name: IORDANIS ELIZOGLOU
 ### University Registration Number: dpsd19034
 ### GitHub Personal Profile: [Jelizog](https://github.com/Jelizog)
-### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
+### Advanced Interaction Tecnologies & Applications Github Personal Repository: [here](https://github.com/Jelizog/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/tree/main/my_report)
 
 # Introduction
 
