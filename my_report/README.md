@@ -29,6 +29,9 @@ The goal of those projects are to get experience for Processing and manage codin
 
 #### FIFTH BULET:
 Αρχίσα με μερικά trial and errors με τα images από [εδώ](https://processing.org/reference/image_.html), μετά προχώρησα να δω τι πάει να πει translate για να μάθω την κίνηση της φωτογραφίας στον χώρο από [εδώ](https://processing.org/reference/translate_.html) και τέλος με rotate μπόρεσα και το γύρισα 180° που το είδα από [εδώ](https://processing.org/reference/rotateZ_.html). Μείωσα ταυτόχρωνα την εικόνα ανάλογα του μεγέθους της ώστε να πρτοσαρμόχζει στο κινητό.
+- [x] Εισαγωγή εικόνας
+- [x] Ορισμός τοποθεσίας στον χώρο
+- [x] Στρίψημο 180°
 
 # 2nd Deliverable
 
