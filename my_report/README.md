@@ -17,7 +17,8 @@ The goal of those projects are to get experience for Processing and manage codin
 2. Τελικώς που έβγαλε αρκετές φορές την κάμερα άρα πέτυχα τον στόχο αυτού του bulet.
 **SECOND BULET:**
   Καθώς προσπάθησα να αποθηκεύσω το 2ο bullet σε αρχείο για να είναι μαζί με τα υπόλοιπα, δεν τα κατάφερα καθώς μετο που άλλαζε ένα direction, δεν μπορούσε να μου τρέξει το πρόγραμμα και μου έλεγε ότι δεν το έβρισκε.
-  Οπότε έβαλα: > Documents\Processing\libraries\video\examples\Movie\Speed
+  Οπότε έβαλα: 
+  > Documents\Processing\libraries\video\examples\Movie\Speed
 
 **THIRD BULET:**
 
