@@ -11,7 +11,7 @@
 The goal of those projects are to get experience for Processing and manage coding for achieving specific targets.
 
 # 1st Deliverable
-####FIRST BULET: 
+######FIRST BULET: 
 1. Στην αρχή που προσπάθησα να βάλω τον κώδικα που γράφει στο [online tutorial](https://processing.org/tutorials/video#live-video) που πέταγε error στο ότι δεν υπάρχει τέτοια συσκευή. 
    Οπότε μετά από έρευνα βρήκα διαφορετικό κώδικα που καλή την κάμερα και ήταν κατά 35% πιο αποτελεσματικό. Καθώς αργότερα είδα ότι το πρόγραμμα processing έχει ένα θέμα με το να αναγνωρίζει την κάμερα, αφού δοκίμαζα έτοιμα παραδείγματα του library video for processing 3, και μου πεταγόταν το ίδιο error.
 2. Τελικώς κατέβασα το σωστό βιβλίο από το eclass καθώς το ένα στο link δεν ήταν το σωστό και είχε από το 18-1 και μετά.
