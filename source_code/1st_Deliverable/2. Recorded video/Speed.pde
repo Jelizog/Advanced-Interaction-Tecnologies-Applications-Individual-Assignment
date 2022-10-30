@@ -1,11 +1,3 @@
-/**
- * Speed. 
- *
- * Use the Movie.speed() method to change
- * the playback speed.
- * 
- */
-
 import processing.video.*;
 
 Movie mov;
@@ -13,12 +5,12 @@ Movie mov;
 void setup() {
   size(560, 406);
   background(0);
-  mov = new Movie(this, "SOUND.mp4");
+  mov = new Movie(this, "SOUND.mp4"); //bazeis to diko sou arxeio apo to paradeigma
   mov.loop();
 }
 
 void movieEvent(Movie movie) {
-  mov.read();  
+  mov.read();
 }
 
 void draw() {    
