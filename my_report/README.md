@@ -8,7 +8,7 @@
 # Introduction
 
 # Summary
-The goal of those projects are to get experience for Processing and manage coding for achieving specific targets.
+The goal of these projects are to get experience for Processing and manage coding for achieving specific targets.
 
 # 1st Deliverable
 #### FIRST BULET: 
