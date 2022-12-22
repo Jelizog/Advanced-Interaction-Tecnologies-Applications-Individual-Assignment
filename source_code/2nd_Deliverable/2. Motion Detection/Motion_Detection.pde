@@ -75,7 +75,7 @@ void draw() {
   float avgX = sumX / motionCount; 
   float avgY = sumY / motionCount; 
 
-  // Draw a circle based on average motion
+  // Sxediazoume kuklo me bash thn mesh kinhsh
   smooth();
   noStroke();
   fill(0);
