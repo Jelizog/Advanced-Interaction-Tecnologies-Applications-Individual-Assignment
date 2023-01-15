@@ -43,7 +43,7 @@ The goal of these projects are to get experienced with Processing and manage cod
 
 
 # 3rd Deliverable 
-
+Άρχισα με τις οδηγίες όπου ήταν αρκετά κατευθυντικές και μεταξύ δυσκολιών βασίστικα στο StackOverFlow community.
 
 # Bonus 
 
